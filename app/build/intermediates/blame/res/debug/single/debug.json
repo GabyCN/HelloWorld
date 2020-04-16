@@ -68,6 +68,10 @@
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\HelloWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\carab\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_name.xml.flat",
+        "source": "C:\\Users\\carab\\AndroidStudioProjects\\HelloWorld\\app\\src\\main\\res\\layout\\activity_show_name.xml"
+    },
+    {
         "merged": "C:\\Users\\carab\\AndroidStudioProjects\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\carab\\AndroidStudioProjects\\HelloWorld\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
